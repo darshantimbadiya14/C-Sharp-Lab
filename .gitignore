@@ -1,6 +1,7 @@
 ## Build outputs
 bin/
 obj/
+test
 
 ## Visual Studio / VS Code
 .vs/

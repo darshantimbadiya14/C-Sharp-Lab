@@ -1,0 +1,22 @@
+dotnet new console -n Prog03 -o Unit3/Prog03; dotnet sln add Unit3/Prog03/Prog03.csproj
+dotnet new console -n Prog04 -o Unit3/Prog04; dotnet sln add Unit3/Prog04/Prog04.csproj
+dotnet new console -n Prog05 -o Unit3/Prog05; dotnet sln add Unit3/Prog05/Prog05.csproj
+dotnet new console -n Prog06 -o Unit3/Prog06; dotnet sln add Unit3/Prog06/Prog06.csproj
+dotnet new console -n Prog07 -o Unit3/Prog07; dotnet sln add Unit3/Prog07/Prog07.csproj
+dotnet new console -n Prog08 -o Unit3/Prog08; dotnet sln add Unit3/Prog08/Prog08.csproj
+dotnet new console -n Prog09 -o Unit3/Prog09; dotnet sln add Unit3/Prog09/Prog09.csproj
+dotnet new console -n Prog10 -o Unit3/Prog10; dotnet sln add Unit3/Prog10/Prog10.csproj
+dotnet new console -n Prog11 -o Unit3/Prog11; dotnet sln add Unit3/Prog11/Prog11.csproj
+dotnet new console -n Prog12 -o Unit3/Prog12; dotnet sln add Unit3/Prog12/Prog12.csproj
+dotnet new console -n Prog13 -o Unit3/Prog13; dotnet sln add Unit3/Prog13/Prog13.csproj
+dotnet new console -n Prog14 -o Unit3/Prog14; dotnet sln add Unit3/Prog14/Prog14.csproj
+dotnet new console -n Prog15 -o Unit3/Prog15; dotnet sln add Unit3/Prog15/Prog15.csproj
+dotnet new console -n Prog16 -o Unit3/Prog16; dotnet sln add Unit3/Prog16/Prog16.csproj
+dotnet new console -n Prog18 -o Unit3/Prog18; dotnet sln add Unit3/Prog18/Prog18.csproj
+dotnet new console -n Prog19 -o Unit3/Prog19; dotnet sln add Unit3/Prog19/Prog19.csproj
+
+
+git init
+git add .
+git commit -m "Unit 4 Sumission"
+git push -u origin main
