@@ -3,4 +3,22 @@
     <Project Path="Unit2/Prog01/Prog01.csproj" />
     <Project Path="Unit2/Prog02/Prog02.csproj" />
   </Folder>
+  <Folder Name="/Unit3/">
+    <Project Path="Unit3/Prog03/Prog03.csproj" />
+    <Project Path="Unit3/Prog04/Prog04.csproj" />
+    <Project Path="Unit3/Prog05/Prog05.csproj" />
+    <Project Path="Unit3/Prog06/Prog06.csproj" />
+    <Project Path="Unit3/Prog07/Prog07.csproj" />
+    <Project Path="Unit3/Prog08/Prog08.csproj" />
+    <Project Path="Unit3/Prog09/Prog09.csproj" />
+    <Project Path="Unit3/Prog10/Prog10.csproj" />
+    <Project Path="Unit3/Prog11/Prog11.csproj" />
+    <Project Path="Unit3/Prog12/Prog12.csproj" />
+    <Project Path="Unit3/Prog13/Prog13.csproj" />
+    <Project Path="Unit3/Prog14/Prog14.csproj" />
+    <Project Path="Unit3/Prog15/Prog15.csproj" />
+    <Project Path="Unit3/Prog16/Prog16.csproj" />
+    <Project Path="Unit3/Prog18/Prog18.csproj" />
+    <Project Path="Unit3/Prog19/Prog19.csproj" />
+  </Folder>
 </Solution>
