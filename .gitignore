@@ -1,0 +1,28 @@
+## Build outputs
+bin/
+obj/
+
+## Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docview
+.vscode/
+
+## Windows
+desktop.ini
+Thumbs.db
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider
+.idea/
+
+## Mac
+.DS_Store
