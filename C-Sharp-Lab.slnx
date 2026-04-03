@@ -21,4 +21,18 @@
     <Project Path="Unit3/Prog18/Prog18.csproj" />
     <Project Path="Unit3/Prog19/Prog19.csproj" />
   </Folder>
+  <Folder Name="/Unit4/">
+    <Project Path="Unit4/Prog01/Prog01.csproj" />
+    <Project Path="Unit4/Prog02/Prog02.csproj" />
+    <Project Path="Unit4/Prog03/Prog03.csproj" />
+    <Project Path="Unit4/Prog04/Prog04.csproj" />
+  </Folder>
+  <Folder Name="/Unit5/">
+    <Project Path="Unit5/Prog01/Prog01.csproj" />
+    <Project Path="Unit5/Prog02/Prog02.csproj" />
+    <Project Path="Unit5/Prog03/Prog03.csproj" />
+    <Project Path="Unit5/Prog04/Prog04.csproj" />
+    <Project Path="Unit5/Prog05/Prog05.csproj" />
+    <Project Path="Unit5/Prog06/Prog06.csproj" />
+  </Folder>
 </Solution>
