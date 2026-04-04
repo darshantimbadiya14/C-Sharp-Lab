@@ -1,22 +1,29 @@
-﻿using System;
+﻿﻿using System;
 
-class Account
+public abstract class Account
 {
-    protected int account_no;
-    protected double balance;
+    public int accountNo;
+    public double balance;
 
- 
-    public void get_account()
+    public void GetAccountData()
     {
         Console.Write("Enter Account Number: ");
-        account_no = Convert.ToInt32(Console.ReadLine());
+        accountNo = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Enter Balance: ");
         balance = Convert.ToDouble(Console.ReadLine());
     }
-    public void display()
+
+    public void Deposit(double amount)
     {
-        Console.WriteLine("Account Number: " + account_no);
+        balance += amount;
+        Console.WriteLine("Deposited: " + amount);
+    }
+
+    public abstract void Withdraw(double amount);
+
+    public void CheckBalance()
+    {
         Console.WriteLine("Balance: " + balance);
     }
 }
